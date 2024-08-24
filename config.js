@@ -23,15 +23,15 @@ global.location = '1' //Ganti Pake Location Panel Lu
 //===========================//
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['254742491666']
-global.ownMain = '254742491666'
-global.NamaOwner = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //gausah diganti 
+global.owner = ['2349138466675]
+global.ownMain = '2349138466675'
+global.NamaOwner = 'DESTINYOFFICIAL' //gausah diganti 
 global.sessionName = 'spidersession'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
 global.namabot = '𝐒𝐏𝐈𝐃𝐄𝐑-𝐕4' //ganti aj klo mau
-global.author = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //ganti aj klo mau
+global.author = 'DESTINYOFFICIAL' //ganti aj klo mau
 global.packname = '𝚂𝚙𝚒𝚍𝚎𝚛 𝙱𝚘𝚝' //ganti aj klo mau
-global.yt = 'https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk' //gausah diganti
+global.yt = 'https://chat.whatsapp.com/KZffTgs8e9c7wkELTv0eyb' //gausah diganti
 
 //===========================//
 
@@ -46,7 +46,7 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
  
 //===========================//
 
-global.country = `254`
+global.country = `234`
 global.system = {
 gmail: `samuelcircute@gmail.com`,
 }
